@@ -1,3 +1,4 @@
+syntax on
 set smartindent
 set expandtab
 set shiftwidth=4
