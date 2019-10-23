@@ -1,4 +1,5 @@
 syntax on
+set encoding=utf-8
 set smartindent
 set expandtab
 set shiftwidth=4
